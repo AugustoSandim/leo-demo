@@ -1,4 +1,4 @@
-# react-figma boilerplate
+# react-figma Leo demo
 A basic template to start working with [react-figma](https://www.npmjs.com/package/react-figma) package
 
 The template includes:
